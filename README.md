@@ -1,0 +1,4 @@
+Pirate-DNA
+==========
+
+Extracts DNA from matches to reconstruct (reverse engineer) DNA profile. With this, you can artificially reconstruct a subject's DNA.This makes it a pirate. However, it does has its limits. Since it is purely based on matches, it can only reveal if you have access to the DNA of the subject's close matches. Hence, there is absolutely no risk of privacy or piracy in using the software. I named it Pirate DNA just for fun. I designed this to create artificial ancestor profiles through matches, to explore the ancestry beyond genealogical time-frame. It supports Family finder matches export file (supports only 2 - i.e., select just 1 in chromosome browser and export) and also GEDMatch's one to one match (save the output as a HTML file from browser). The more number of matches and autosomal DNA files you have matching towards a subject will increase your accuracy.
